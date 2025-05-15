@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.0.0](https://github.com/betadots/smart_proxy_hdm/tree/v1.0.0) (2025-05-15)
+
+[Full Changelog](https://github.com/betadots/smart_proxy_hdm/compare/v0.1.0...v1.0.0)
+
+**Implemented enhancements:**
+
+- CI: Add Ruby 3.3 & 3.4 [\#18](https://github.com/betadots/smart_proxy_hdm/pull/18) ([bastelfreak](https://github.com/bastelfreak))
+
+**Fixed bugs:**
+
+- Restart of foreman-proxy fails after hdm proxy installation [\#13](https://github.com/betadots/smart_proxy_hdm/issues/13)
+- License: Specify GPL3 properly [\#19](https://github.com/betadots/smart_proxy_hdm/pull/19) ([bastelfreak](https://github.com/bastelfreak))
+
+**Closed issues:**
+
+- Add documentation on installation and configuration [\#12](https://github.com/betadots/smart_proxy_hdm/issues/12)
+
+**Merged pull requests:**
+
+- CI: Apply best practices and generate Ruby matrix [\#21](https://github.com/betadots/smart_proxy_hdm/pull/21) ([bastelfreak](https://github.com/bastelfreak))
+- Add pointer to documentation [\#14](https://github.com/betadots/smart_proxy_hdm/pull/14) ([tuxmea](https://github.com/tuxmea))
+- Update rubocop-minitest requirement from ~\> 0.31.0 to ~\> 0.33.0 [\#11](https://github.com/betadots/smart_proxy_hdm/pull/11) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 3 to 4 [\#8](https://github.com/betadots/smart_proxy_hdm/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+- document release process and add badges [\#7](https://github.com/betadots/smart_proxy_hdm/pull/7) ([bastelfreak](https://github.com/bastelfreak))
+
 ## [v0.1.0](https://github.com/betadots/smart_proxy_hdm/tree/v0.1.0) (2023-06-23)
 
 [Full Changelog](https://github.com/betadots/smart_proxy_hdm/compare/c382a2fad93c4c7db80a790b2877625eb1ad43a4...v0.1.0)
