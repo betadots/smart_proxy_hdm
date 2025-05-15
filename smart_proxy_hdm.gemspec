@@ -25,5 +25,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rubocop-minitest', '~> 0.38.0'
   s.add_development_dependency 'rubocop-performance', '~> 1.18'
   s.add_development_dependency 'rubocop-rails', '~> 2.19', '>= 2.19.1'
-  s.add_development_dependency 'rubocop-rake', '~> 0.6.0'
+  s.add_development_dependency 'rubocop-rake', '~> 0.7.0'
 end
