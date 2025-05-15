@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name        = 'smart_proxy_hdm'
   s.version     = Proxy::Hdm::VERSION
   s.date        = Date.today.to_s
-  s.license     = 'GPL-3.0'
+  s.license     = 'GPL-3.0-only'
   s.authors     = ['betadots GmbH']
   s.email       = ['info@betadots.de']
   s.homepage    = 'https://github.com/betadots/smart_proxy_hdm'
