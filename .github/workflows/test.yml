@@ -6,11 +6,7 @@ on:
     branches:
       - main
 
-env:
-  BUNDLE_WITHOUT: release
-
 jobs:
-
   rubocop_and_matrix:
     runs-on: ubuntu-24.04
     outputs:
